@@ -1,0 +1,14 @@
+{
+    "name": "whatsapp API",
+    "description": "whatsapp API",
+    "require": {
+        "mgp25/whatsapi": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonzalo Aizpún",
+            "email": "gonzaloaizpun@gmail.com"
+        }
+    ]
+}
